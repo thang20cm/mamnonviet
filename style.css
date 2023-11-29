@@ -383,7 +383,7 @@ button{
     position: absolute;
     bottom: 0;
     left: 50%;
-    transform: translate(-50%,100px);
+    transform: translate(-50%,-20px);
     display: flex !important;
     align-items: center;
     justify-content: center;
