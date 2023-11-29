@@ -417,6 +417,9 @@ button{
     display:flex;
     align-items: center;
 }
+.caption-game img{
+    margin-left:5px;
+}
 .container-category{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
